@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Peer Review Config">fd143b0915de3010bf6b8c0c1470a6b9</app_config>
+        <description/>
+        <fields/>
+        <icon>paperclip-outline</icon>
+        <name>Attachment</name>
+        <optional_parameters/>
+        <order>1</order>
+        <parent_macroponent display_value="Record">558adc930f0210107d20409dc4767e84</parent_macroponent>
+        <parent_macroponent_composition_element_id>contextual_sidebar</parent_macroponent_composition_element_id>
+        <route_type>attachmenttab</route_type>
+        <screen_type display_value="Attachment">747828db0f0210107d20409dc4767eb5</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>alealvar</sys_created_by>
+        <sys_created_on>2021-08-29 16:13:34</sys_created_on>
+        <sys_id>39143b099fde3010b8346b8f65e593ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Attachment</sys_name>
+        <sys_package display_value="Peer Review" source="x_660033_peer_re_0">7f4ea3052fde30108eabd2172799b6fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">7f4ea3052fde30108eabd2172799b6fc</sys_scope>
+        <sys_update_name>sys_ux_app_route_39143b099fde3010b8346b8f65e593ba</sys_update_name>
+        <sys_updated_by>alealvar</sys_updated_by>
+        <sys_updated_on>2021-08-29 16:13:34</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=39143b099fde3010b8346b8f65e593ba"/>
+</record_update>

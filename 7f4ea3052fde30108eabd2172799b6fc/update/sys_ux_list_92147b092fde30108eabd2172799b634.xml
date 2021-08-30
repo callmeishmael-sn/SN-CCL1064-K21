@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list">
+    <sys_ux_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="User Score">56147b092fde30108eabd2172799b631</category>
+        <columns>user,nps,average</columns>
+        <condition/>
+        <configuration display_value="Peer Review_menu_config">56147b092fde30108eabd2172799b62f</configuration>
+        <groups/>
+        <list_attributes/>
+        <order>50</order>
+        <roles/>
+        <sys_class_name>sys_ux_list</sys_class_name>
+        <sys_created_by>alealvar</sys_created_by>
+        <sys_created_on>2021-08-29 16:13:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>92147b092fde30108eabd2172799b634</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Peer Review" source="x_660033_peer_re_0">7f4ea3052fde30108eabd2172799b6fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">7f4ea3052fde30108eabd2172799b6fc</sys_scope>
+        <sys_update_name>sys_ux_list_92147b092fde30108eabd2172799b634</sys_update_name>
+        <sys_updated_by>alealvar</sys_updated_by>
+        <sys_updated_on>2021-08-29 16:13:35</sys_updated_on>
+        <table>x_660033_peer_re_0_user_score</table>
+        <title>All</title>
+    </sys_ux_list>
+</record_update>

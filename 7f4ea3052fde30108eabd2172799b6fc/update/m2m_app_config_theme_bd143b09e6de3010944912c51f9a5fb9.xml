@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>alealvar</sys_created_by>
+        <sys_created_on>2021-08-29 16:13:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bd143b09e6de3010944912c51f9a5fb9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Peer Review" source="x_660033_peer_re_0">7f4ea3052fde30108eabd2172799b6fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">7f4ea3052fde30108eabd2172799b6fc</sys_scope>
+        <sys_update_name>m2m_app_config_theme_bd143b09e6de3010944912c51f9a5fb9</sys_update_name>
+        <sys_updated_by>alealvar</sys_updated_by>
+        <sys_updated_on>2021-08-29 16:13:34</sys_updated_on>
+        <theme display_value="Starter Workspace Theme">b9143b09eade30108d6ae390a45878ba</theme>
+        <ux_app_configuration display_value="Peer Review Config">fd143b0915de3010bf6b8c0c1470a6b9</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

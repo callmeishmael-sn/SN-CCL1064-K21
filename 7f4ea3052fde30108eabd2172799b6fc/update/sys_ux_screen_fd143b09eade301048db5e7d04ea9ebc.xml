@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Peer Review Config">fd143b0915de3010bf6b8c0c1470a6b9</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="Workspace notification">2683731bb7fa5010fddc6c91de11a93c</macroponent>
+        <macroponent_config/>
+        <name>Notification tray default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="Notification tray">3d143b0987de301033c92e21817ba2ba</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>alealvar</sys_created_by>
+        <sys_created_on>2021-08-29 16:13:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fd143b09eade301048db5e7d04ea9ebc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Notification tray default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Peer Review" source="x_660033_peer_re_0">7f4ea3052fde30108eabd2172799b6fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">7f4ea3052fde30108eabd2172799b6fc</sys_scope>
+        <sys_update_name>sys_ux_screen_fd143b09eade301048db5e7d04ea9ebc</sys_update_name>
+        <sys_updated_by>alealvar</sys_updated_by>
+        <sys_updated_on>2021-08-29 16:13:34</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=fd143b09eade301048db5e7d04ea9ebc"/>
+</record_update>

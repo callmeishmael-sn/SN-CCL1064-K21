@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="User Score" max_length="40" name="x_660033_peer_re_0_user_score" sizeclass="1" type="collection">
+        <element label="Average" max_length="40" name="average" read_only="true" type="float"/>
+        <element label="NPS" max_length="40" name="nps" read_only="true" type="float"/>
+        <element display="true" label="User" max_length="32" name="user" read_only="true" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="user"/>
+        </index>
+    </element>
+</database>
